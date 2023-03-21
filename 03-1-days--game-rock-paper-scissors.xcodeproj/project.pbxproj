@@ -51,7 +51,6 @@
 		472EB7ED29C78A0A00766C48 /* 03-1-days--game-rock-paper-scissors */ = {
 			isa = PBXGroup;
 			children = (
-				472EB7EE29C78A0A00766C48 /* _3_1_days__game_rock_paper_scissorsApp.swift */,
 				472EB7F029C78A0A00766C48 /* ContentView.swift */,
 				472EB7F229C78A1000766C48 /* Assets.xcassets */,
 				472EB7F429C78A1000766C48 /* Preview Content */,
@@ -62,6 +61,7 @@
 		472EB7F429C78A1000766C48 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				472EB7EE29C78A0A00766C48 /* _3_1_days__game_rock_paper_scissorsApp.swift */,
 				472EB7F529C78A1000766C48 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
